@@ -39,6 +39,7 @@
         "DEVELOPMENT_TEAM": "L5989F8R5R",
         "ENABLE_PREVIEWS": "YES",
         "GENERATE_INFOPLIST_FILE": "YES",
+        "INFOPLIST_FILE": "VoiceShortcut.plist",
         "INFOPLIST_KEY_NSMicrophoneUsageDescription": "AlmostWiser uses the microphone to capture your voice notes.",
         "INFOPLIST_KEY_NSSpeechRecognitionUsageDescription": "AlmostWiser converts your voice notes into text.",
         "INFOPLIST_KEY_UIApplicationSceneManifest_Generation": "YES",
